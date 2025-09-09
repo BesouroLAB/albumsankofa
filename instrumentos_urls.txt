@@ -1,3 +1,5 @@
+A Escolha É Nossa 
+
 https://raw.githubusercontent.com/BesouroLAB/a-escolha-e-nossa/main/%5Ba-escolha-e-nossa%5Dalfaia.mp3
 https://raw.githubusercontent.com/BesouroLAB/a-escolha-e-nossa/main/%5Ba-escolha-e-nossa%5Dbackings-vocals.mp3
 https://raw.githubusercontent.com/BesouroLAB/a-escolha-e-nossa/main/%5Ba-escolha-e-nossa%5Dbaixo.mp3
@@ -11,6 +13,9 @@ https://raw.githubusercontent.com/BesouroLAB/a-escolha-e-nossa/main/%5Ba-escolha
 https://raw.githubusercontent.com/BesouroLAB/a-escolha-e-nossa/main/%5Ba-escolha-e-nossa%5Dvioloes.mp3
 https://raw.githubusercontent.com/BesouroLAB/a-escolha-e-nossa/main/%5Ba-escolha-e-nossa%5Dxequere-1.mp3
 https://raw.githubusercontent.com/BesouroLAB/a-escolha-e-nossa/main/%5Ba-escolha-e-nossa%5Dxequere-2.mp3
+
+Baobá Ancestral
+
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/baoba-ancestral/%5Bbaoba-ancestral%5Dalfaia.mp3
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/baoba-ancestral/%5Bbaoba-ancestral%5Dbacking%20vocals.mp3
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/baoba-ancestral/%5Bbaoba-ancestral%5Dbaixo.mp3
@@ -27,3 +32,23 @@ https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/baoba-ancestral/%
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/baoba-ancestral/%5Bbaoba-ancestral%5Dviol%C3%B5es.mp3
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/baoba-ancestral/%5Bbaoba-ancestral%5Dxequere-1.mp3
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/baoba-ancestral/%5Bbaoba-ancestral%5Dxequere-2.mp3
+
+Batuque de Malungo
+
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dagogo.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dalfaia.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dbacking%20vocals.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dbaixo.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dberimbau.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dbomb.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dcaixa.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dconga.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dguitas%20%20dist.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dguitas%20clean.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dnzila.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dpalmas.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dpandeiro.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dviol%C3%B5es.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dwoosh.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dxequer%C3%AA%201.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/batuque-de-malungo/%5Bbatuque-de-malungo%5Dxequer%C3%AA%202.mp3
