@@ -70,3 +70,13 @@ https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/boia-fria/%5Bboia
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/boia-fria/%5Bboia-fria%5D-violoes-aco.mp3
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/boia-fria/%5Bboia-fria%5D-xequere-1.mp3
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/boia-fria/%5Bboia-fria%5D-xequere-2.mp3
+
+Pé de Coco
+
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/pe-de%20coco/%5Bp%C3%A9%20de%20coco%5Dbacking_vocals.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/pe-de%20coco/%5Bp%C3%A9%20de%20coco%5Dbass.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/pe-de%20coco/%5Bp%C3%A9%20de%20coco%5Ddrums.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/pe-de%20coco/%5Bp%C3%A9%20de%20coco%5Dguitars.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/pe-de%20coco/%5Bp%C3%A9%20de%20coco%5Dmetronome.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/pe-de%20coco/%5Bp%C3%A9%20de%20coco%5Dother.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/pe-de%20coco/%5Bp%C3%A9%20de%20coco%5Dvocals.mp3
