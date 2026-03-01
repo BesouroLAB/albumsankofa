@@ -102,4 +102,22 @@ https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/pe-de%20coco/%5Bp
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/pe-de%20coco/%5Bp%C3%A9%20de%20coco%5Dvocal.mp3
 https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/pe-de%20coco/%5Bp%C3%A9%20de%20coco%5Dxequeres.mp3
 
+ensaio-show
 
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-alfaia.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-backing-vocal.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-baixo.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-berimbau.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-caixa.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-conga.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-cowbell.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-guitarra.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-nzila-e-percussoes-originais.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-palmas.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-pandeiro.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-pratos.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-regencia.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-triangulo.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-violao.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-vocal.mp3
+https://raw.githubusercontent.com/BesouroLAB/albumsankofa/main/ensaio-show/%5Bensaio-show%5D-xequere.mp3
