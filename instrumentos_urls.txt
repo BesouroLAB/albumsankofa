@@ -106,6 +106,7 @@ ensaio-show
 
 01-rei-precioso-batuque-de-malungo
 
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-alfaia.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-backing-vocals.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-baixo.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-berimbau.mp3
@@ -115,7 +116,9 @@ https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-guitarra.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-palmas.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-pandeiro.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-percussoes-originais.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-pratos.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-regencia.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-triangulo.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-violao.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-batuque-de-malungo/%5B01-rei-precioso-batuque-de-malungo%5D-vocal.mp3
@@ -123,8 +126,23 @@ https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/01-rei-precioso-
 
 02-baoba-ancestral
 
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-alfaia.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-backing-vocals.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-baixo.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-berimbau.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-caixa.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-conga.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-cowbell.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-guitarra.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-palmas.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-pandeiro.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-percussoes-originais.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-pratos.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-regencia.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-triangulo.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-violao.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-vocal.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/02-baoba-ancestral/%5B02-baoba-ancestral%5D-xequeres.mp3
 
 03-pe-de-coco-baiao-ambiental
 
@@ -148,16 +166,43 @@ https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/03-pe-de-coco-ba
 
 04-nove-cirandas-caio-no-swing
 
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-alfaia.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-backing-vocals.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-baixo.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-berimbau.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-caixa.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-conga.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-cowbell.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-guitarra.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-palmas.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-pandeiro.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-percussoes-originais.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-pratos.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-regencia.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-triangulo.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-violao.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-vocal.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/04-nove-cirandas-caio-no-swing/%5B04-nove-cirandas-caio-no-swing%5D-xequeres.mp3
 
 05-homem-amarelo
 
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-alfaia.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-backing-vocals.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-baixo.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-berimbau.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-caixa.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-conga.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-cowbell.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-guitarra.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-palmas.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-pandeiro.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-percussoes-originais.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-pratos.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-regencia.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-triangulo.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-violao.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-vocal.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/05-homem-amarelo/%5B05-homem-amarelo%5D-xequeres.mp3
 
 06-o-boia-fria
 
@@ -171,7 +216,9 @@ https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/06-o-boia-fria/%
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/06-o-boia-fria/%5B06-o-boia-fria%5D-guitarra.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/06-o-boia-fria/%5B06-o-boia-fria%5D-palmas.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/06-o-boia-fria/%5B06-o-boia-fria%5D-pandeiro.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/06-o-boia-fria/%5B06-o-boia-fria%5D-percussoes-originais.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/06-o-boia-fria/%5B06-o-boia-fria%5D-pratos.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/06-o-boia-fria/%5B06-o-boia-fria%5D-regencia.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/06-o-boia-fria/%5B06-o-boia-fria%5D-triangulo.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/06-o-boia-fria/%5B06-o-boia-fria%5D-violao.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/06-o-boia-fria/%5B06-o-boia-fria%5D-vocal.mp3
@@ -279,12 +326,20 @@ https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/11-monologo-band
 
 12-praieira
 
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-alfaia.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-backing-vocals.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-baixo.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-berimbau.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-caixa.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-conga.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-cowbell.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-guitarra.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-palmas.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-pandeiro.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-percussoes-originais.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-pratos.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-regencia.mp3
+https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-triangulo.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-violao.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-vocal.mp3
 https://github.com/BesouroLAB/albumsankofa/raw/main/ensaio-show/12-praieira/%5B12-praieira%5D-xequeres.mp3
